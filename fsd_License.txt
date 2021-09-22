@@ -1,0 +1,57 @@
+Firestorm Designs License Copyright (c)2012-2021
+
+Section 1. Definitions
+Computer Program - a creation composed of Software that operates on a
+computer machine.
+
+Initial Person - the Person that all rights in the Software originate from,
+whom grants certain privileges to the usage of their Software as provided
+by the License.
+
+License - this document.
+
+Person - every individual or legal entity that creates, contributes to
+the creation of, or owns the Software.
+
+Software - all Source Code that the initial Person has created and
+attached this license to, the executable binary of such Source Code,
+modifications of such Source Code in each case including portions
+thereof, and any associated documentation files.
+
+Source Code - the medium in which specific syntax is converted into a
+form of data which allows the computer machine to calculate and execute
+a set of instructions that operate a Computer Program.
+
+Section 2. License
+All words not defined in Section 1 are used in their general terms below.
+
+Permission is hereby granted, free of charge, to any Person obtaining a
+copy of this Software, to deal in the Software with the following
+restrictions:
+
+I - the Person must provide the Source Code with any release and, or,
+modification of the Software---so long as no internal and private trade
+practices, trade secrets, confidential operations, classified information,
+private technology, business technology, or any other private and
+non-publc operations of the Person are kept private, and in the case of
+a risk of illuminating such a private act to public eyes, only the
+modifications keeping the privacy shall be required under this License;
+
+II - the Person shall contact the Initial Person to discuss any kind of
+profit for the commercial use of the Software---non-commercial use of the
+Software is unrestricted, excepting the limitations within the License;
+
+including, the above limitations, the rights to use, copy,
+modify, and to permit persons to whom the Software is furnished to do
+so, subject to the following conditions---
+
+The entirety of this License and this permission notice shall be included
+in all copies or substantial portions of the Software:
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
