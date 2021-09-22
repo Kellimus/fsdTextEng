@@ -1,0 +1,42 @@
+--------- Change Log for Quest For The Sword - Non-SDL functionality ---------
+--------- Change log Version: 1.2.1                                    ---------
+
+Main overhaul(s) needed:
+	Not-Applicable as of December 3, 2016 (12/03/2016)
+	
+---------							 NEWS							 ---------
+December 3, 2016:
+
+	Revised the program.
+
+---------							 FILES							 ---------
+FSP_Main_RPGEng.h
+FSP_RPGEng_Classes.h
+FSP_RPGEng_Initialization.h
+FSP_RPGEng_Files.h
+FSP_RPGEng_GameFuncts.h
+FSP_RPGEng_Print.h
+FSP_RPGEng_PlayerFuncts.h
+Quest_For_The_Sword.cpp
+makefile
+
+--FSP_Main_RPGEng.h - Engine Version 0a.5.1 --
+TO DO: N/A
+
+--FSP_RPGEng_Classes.h--
+TO DO: Encapsulation; Inheritence
+
+--FSP_RPGEng_Initialization.cpp--
+TO DO: N/A
+
+--FSP_RPGEng_Files.cpp--
+TO DO: Put the files into a string vector
+
+--FSP_RPGEng_GameFuncts.h--
+TO DO: N/A
+
+--FSP_RPGEng_Print.cpp--
+TO DO: Finish Inventory Function
+
+--FSP_RPG_Eng_PlayerFuncts.h--
+TO DO: N/A

@@ -1,0 +1,6 @@
+1 - Human
+2 - Elf
+3 - Dwarf
+4 - Orc
+5 - Dracon
+6 - High Elf

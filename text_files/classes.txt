@@ -1,0 +1,5 @@
+1 - Warrior
+2 - Mage
+3 - Thief
+4 - Ranger
+5 - Barbarian
