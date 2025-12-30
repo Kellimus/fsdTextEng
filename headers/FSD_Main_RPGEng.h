@@ -40,7 +40,7 @@ namespace FSD_RPG_ENG
 	#include "includes/FSD_RPGEng_Initialization.h"
 	#include "includes/FSD_RPGEng_Files.h"
 	#include "includes/FSD_RPGEng_GameFuncts.h"
-	#include "includes/FSD-RPGEng_Print.h"
+	#include "includes/FSD_RPGEng_Print.h"
 	#include "includes/FSD_RPGEng_PlayerFuncts.h"
 }
 #endif
